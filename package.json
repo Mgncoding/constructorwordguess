@@ -1,0 +1,22 @@
+{
+  "name": "constructorwordguess",
+  "version": "1.0.0",
+  "description": "word guess using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mgncoding/constructorwordguess.git"
+  },
+  "author": "michael nault",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mgncoding/constructorwordguess/issues"
+  },
+  "homepage": "https://github.com/Mgncoding/constructorwordguess#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
